@@ -55,13 +55,13 @@
 
         <div class="col-lg-6">
           <div class="media-02819">
-            <a href="#" class="img-link"><img src="images/img_1.jpg" alt="Image" class="img-fluid"></a>
+            <a href="#" class="img-link"><img src="images/img3.jpg" alt="Image" class="img-fluid"></a>
             <h3><a href="#">Bluestars ensures dusting of each surface of your home to reduce allergens. This includes mantles, picture frames, light fixtures, fan blades, window sills, blinds, wardrobes, entertainment centers, dressers, side tables, and more.</a></h3>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="media-02819">
-            <a href="#" class="img-link"><img src="images/img_2.jpg" alt="Image" class="img-fluid"></a>
+            <a href="#" class="img-link"><img src="images/img2.jpg" alt="Image" class="img-fluid"></a>
             <h3><a href="#">Thorough wiping down and scrubing of bathroom faucets, sink basins, mirrors, vanities, counter tops, and the surrounding areas.</a></h3>
           </div>
         </div>
