@@ -8,13 +8,13 @@
       
 
         <div>
-          <h1 class=" mb-3 text-black"><span style="color: blue">About Us</span></a></h1>
+          <h1 class=" mb-3 text-black"><span style="color: #19A1AA">About Us</span></a></h1>
           <p>Get to understand our history and the achievements we have made upto this far. Welcome. </p>
         </div>
       
     </div>
 
-      <div class="ftco-cover-1" style="background-image: url('images/blue2.jpeg');"></div>
+      <div class="ftco-cover-1" style="background-image: url('images/alfine8.jpg');"></div>
   </div>
 
   
@@ -24,14 +24,14 @@
         <div class="col-lg-4">
           <div class="h-100 bg-white box-29291">
             <h2 class="heading-39291">Company History</h2>
-            <p>The company has taken 5 years in operation. We offer affordable Professional Commercial and residential cleaning in Nairobi. The company has won trust with so many clients and no clients worked for ever left us.</p>
+            <p>Since 2018, Alfine Cleaners has been providing cleaning solutions to fit the needs and busy lifestyles of our clients. Our friendly professionals strive to earn your loyalty every time we clean, which is why we make setting up house cleaning services as easy as can be. Whether you are looking to request services one time or create a routine cleaning plan, you'll never have to worry about signing a contract.</p>
 
            
           </div>
         </div>
         <div class="col-lg-8">
           <div class="owl-carousel owl-3">
-            <img src="images/blue1.jpeg" alt="Image" style="height: 30em" class="img-fluid">
+            <img src="images/logo.jpg" alt="Image" style="height: 30em" class="img-fluid">
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@
             </a>
             <div class="post-entry-1-contents">
               <span class="meta">CEO/Founder</span>
-              <h2>Austine J. Okoth</h2>
+              <h2>Adera Lameck</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, sapiente.</p>
             </div>
           </div>
@@ -70,7 +70,7 @@
             </a>
             <div class="post-entry-1-contents">
               <span class="meta">Financial & Operation Manager</span>
-              <h2>Valine Atieno</h2>
+              <h2>Verah Adera</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, sapiente.</p>
             </div>
           </div>
@@ -84,7 +84,7 @@
             </a>
             <div class="post-entry-1-contents">
               <span class="meta">Service Supervisor</span>
-              <h2>Joash Mukua</h2>
+              <h2>Esther Ayoo</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, sapiente.</p>
             </div>
           </div>

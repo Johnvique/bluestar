@@ -2,25 +2,25 @@
 <html lang="en">
 
 <head>
-  <title>Bluestar professional Cleaners</title>
+  <title>Alfine Cleaners Limited</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700i,900|Roboto&display=swap" rel="stylesheet">
+    <link href="{{asset('https://fonts.googleapis.com/css?family=Playfair+Display:400,700i,900|Roboto&display=swap')}}" rel="stylesheet">
 
-    <link rel="stylesheet" href="fonts/icomoon/style.css">
+    <link rel="stylesheet" href="{{asset('fonts/icomoon/style.css')}}">
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.min.css">
-    <link rel="stylesheet" href="css/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/animate.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/jquery.fancybox.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{asset('css/owl.theme.default.min.css')}}">
+    <link rel="stylesheet" href="{{asset('fonts/flaticon/font/flaticon.css')}}">
+    <link rel="stylesheet" href="{{asset('css/aos.css')}}">
 
     <!-- MAIN CSS -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="{{asset('css/style.css')}}">
 
   </head>
 
@@ -56,10 +56,10 @@
             </div>
             <div class="col-lg-4 text-center">
               <div class="site-logo">
-              <a href="{{url('/')}}"><img width="150em" height="150em" src="{{asset('images/logo.jpeg')}}" alt="Image" class="img-responsive"></a>
+              <a href="{{url('/')}}"><img width="150em" height="150em" src="{{asset('images/logo.jpg')}}" alt="Image" class="img-responsive"></a>
               </div>
 
-              <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-white"><span class="icon-menu h3 text-primary"></span></a></div>
+              <div class="ml-auto toggle-button d-inline-block d-lg-none"><a href="#" class="site-menu-toggle py-5 js-menu-toggle text-white"><span class="icon-menu h3 text-info"></span></a></div>
             </div>
             <div class="col-lg-4">
               <nav class="site-navigation text-left mr-auto " role="navigation">
@@ -85,8 +85,8 @@
           <div class="col-md-6">
             <div class="row">
               <div class="col-md-7">
-                <span class="footer-heading mb-4"><a href="{{url('/')}}"><img width="180em" height="180em" src="{{asset('images/logo.jpeg')}}" alt="Image" class="img-responsive"></a></span>
-                <p><strong><em>"One clean home makes a clean nation"</em></strong></p>
+                <span class="footer-heading mb-4"><a href="{{url('/')}}"><img width="180em" height="180em" src="{{asset('images/logo.jpg')}}" alt="Image" class="img-responsive"></a></span>
+                <p><strong><em>":keeping clean and fancy is our priority"</em></strong></p>
 
               </div>
               <div class="col-md-4 ml-auto">
@@ -110,7 +110,7 @@
                 <div class="input-group mb-3">
                   <input type="text" class="form-control rounded-0 border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
                   <div class="input-group-append">
-                    <button class="btn btn-primary text-white" type="button" id="button-addon2">Submit</button>
+                    <button class="btn btn-info text-white" type="button" id="button-addon2">Submit</button>
                   </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
           <div class="col-md-12">
             <div class="pt-5">
                 <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>| 
-                    <a href="{{url('http://mtaanitech-hub.co.ke')}}">Bluestar professional Cleaners Limited</a> | All rights reserved.</p>
+                    <a href="{{url('http://mtaanitech-hub.co.ke')}}">Alfine Cleaners Limited</a> | All rights reserved.</p>
             </div>
           </div>
 
@@ -138,18 +138,18 @@
 
     </div>
 
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.sticky.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.animateNumber.min.js"></script>
-    <script src="js/jquery.fancybox.min.js"></script>
-    <script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/aos.js"></script>
+    <script src="{{asset('js/jquery-3.3.1.min.js')}}"></script>
+    <script src="{{asset('js/popper.min.js')}}"></script>
+    <script src="{{asset('js/bootstrap.min.js')}}"></script>
+    <script src="{{asset('js/owl.carousel.min.js')}}"></script>
+    <script src="{{asset('js/jquery.sticky.js')}}"></script>
+    <script src="{{asset('js/jquery.waypoints.min.js')}}"></script>
+    <script src="{{asset('js/jquery.animateNumber.min.js')}}"></script>
+    <script src="{{asset('js/jquery.fancybox.min.js')}}"></script>
+    <script src="{{asset('js/jquery.easing.1.3.js')}}"></script>
+    <script src="{{asset('js/aos.js')}}"></script>
 
-    <script src="js/main.js"></script>
+    <script src="{{asset('js/main.js')}}"></script>
 
      
 

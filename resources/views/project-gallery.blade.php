@@ -8,7 +8,7 @@
     
 
       <div>
-        <h1 class=" mb-3 text-black"><span style="color: blue">Our Gallery</span></a></h1>
+        <h1 class=" mb-3 text-black"><span style="color: #19A1AA">Our Gallery</span></a></h1>
         <p>zoom in and view our project gallery.</p>
       </div>
 
@@ -17,7 +17,7 @@
     
   </div>
 
-    <div class="ftco-cover-1" style="background-image: url('images/blu5.jpeg');"></div>
+    <div class="ftco-cover-1" style="background-image: url('images/alfine6.jpg');"></div>
 </div>
 
 
